@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(208, 216, 243);
+}
+
+button{
+    display: block;
+    margin-top: 20px;
+    padding: 5px;
+    width: 4rem;
+}
+
+.choices{
+    padding-bottom: 15px;
+}
